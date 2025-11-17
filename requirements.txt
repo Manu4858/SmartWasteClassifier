@@ -1,0 +1,4 @@
+tensorflow-macos
+opencv-python
+numpy
+matplotlib
