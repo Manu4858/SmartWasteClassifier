@@ -1,24 +1,22 @@
-tfenv/
-env310/
-tfenv/
-venv/
+# Virtual environments
 env310/
 venv/
 tfenv/
+
+# Python cache files
 __pycache__/
+*.pyc
+
+# Model files (DO NOT UPLOAD)
 *.h5
 *.keras
 *.ckpt
 *.pt
 *.pth
+
+# Mac system files
 .DS_Store
-env310/
-venv/
-tfenv/
-__pycache__/
-*.h5
-*.keras
-*.ckpt
-*.pt
-*.pth
-.DS_Store
+
+# Data folders (optional)
+# data/
+
